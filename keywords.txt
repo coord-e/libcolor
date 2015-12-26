@@ -1,0 +1,48 @@
+#######################################
+# Syntax Coloring Map libcolor
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+colors	KEYWORD1
+colorUtil	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+BLACK	KEYWORD2
+RED	KEYWORD2
+BLUE	KEYWORD2
+GREEN	KEYWORD2
+YELLOW	KEYWORD2
+WHITE	KEYWORD2
+CYAN	KEYWORD2
+MAGENTA	KEYWORD2
+GRAY	KEYWORD2
+SILVER	KEYWORD2
+ORANGE	KEYWORD2
+TOMATO	KEYWORD2
+NAVY	KEYWORD2
+LIME	KEYWORD2
+VIOLET	KEYWORD2
+PINK	KEYWORD2
+OLIVE	KEYWORD2
+WHEAT	KEYWORD2
+TEAL	KEYWORD2
+INDIGO	KEYWORD2
+SALMON	KEYWORD2
+getTheme	KEYWORD2
+rgb565	KEYWORD2
+htmlCode	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+THEME_PRIMARY	LITERAL1
+THEME_FLAT	LITERAL1
+THEME_JAPANESE	LITERAL1
+THEME_WESTERN	LITERAL1
